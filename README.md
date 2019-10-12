@@ -39,5 +39,7 @@ Python Code File Name | Description
 
 ## 6. References used in completing the project
 
-Jupyter Notebook: An Introduction  by Mike Driscoll  Jan 28, 2019<br>
+Jupyter Notebook: An Introduction by Mike Driscoll Jan 28, 2019<br>
 https://realpython.com/jupyter-notebook-introduction/ <br>
+Let’s talk about NumPy — for Data Science Beginners by Ehi Aigiomawu Apr 15, 2018 <br>
+https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f <br>
