@@ -41,3 +41,13 @@ Python Code File Name | Description
 
 Jupyter Notebook: An Introduction  by Mike Driscoll  Jan 28, 2019<br>
 https://realpython.com/jupyter-notebook-introduction/ <br>
+Let’s talk about NumPy — for Data Science Beginners by Ehi Aigiomawu Apr 15, 2018 <br>
+https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f<br>
+A Quick Introduction to the NumPy Library by Adi Bronshtein Apr 26, 2017<br>
+https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db<br>
+Python Random Number Generator: the Random Module || Python Tutorial || Learn Python Programming<br>
+https://www.youtube.com/watch?v=zWL3z7NMqAs<br>
+Chapter 9.6. random — Generate pseudo-random numbers<br>
+https://docs.python.org/2/library/random.html<br>
+user John1024
+https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
