@@ -7,7 +7,7 @@ Assignment 2019 for Programming for Data Analysis module, GMIT.
 
 ## 1. Introduction
 
-## 2. A summary of the data set - what is it? why is it important?
+## 2. BLANK FOR COMPLETION LATER
 
 ## 3. Instructions for downloading this repository
 Log on to GitHub and search for user ClodaghMurphy, the repository is entitled Assignment-2019-progda.<br>
@@ -27,14 +27,7 @@ Chrome and firefox are the optimal web browsers to use and you may need to copy 
 You are running the Jupyter server and can use it to open and engage with my repository contents.<br>
 
 
-## 5. What the Python Code does
-
-
-Python Code File Name | Description
------------- | -------------
-1Analysis  | Loads a segment of hardcoded data into a dataframe
-2Analysis | Reads a text file into a dataframe
-3Analysis | Top and tail the list
+## 5. Is this segment needed?
 
 
 ## 6. References used in completing the project
@@ -55,3 +48,8 @@ https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
 =======
 https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f <br>
 >>>>>>> 8f6da146a014b22309d3e07ebef77b3fde8d621a
+
+Python Basics Tutorial Random Seed Method<br>
+https://www.youtube.com/watch?v=mZiwtDYrpO8<br>
+Random sampling (numpy.random)¶<br>
+https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html<br>
