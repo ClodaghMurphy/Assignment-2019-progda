@@ -45,7 +45,7 @@ Chapter 9.6. random — Generate pseudo-random numbers<br>
 https://docs.python.org/2/library/random.html<br>
 user John1024
 https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
-=======
+
 https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f <br>
 >>>>>>> 8f6da146a014b22309d3e07ebef77b3fde8d621a
 
@@ -53,3 +53,9 @@ Python Basics Tutorial Random Seed Method<br>
 https://www.youtube.com/watch?v=mZiwtDYrpO8<br>
 Random sampling (numpy.random)¶<br>
 https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html<br>
+NumPy Tutorial: random, randint, seed, randn, rand, randint, shuffle, uniform, choice - Part 6  <br>
+https://www.youtube.com/watch?v=ck-ymnLYWQ0<br>
+Understanding random number generators, and their limitations, in Linux <br>
+https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux
+Design and Analysis of a True Random Number Generator Based on GSR Signals for Body Sensor Networks <br>
+https://www.mdpi.com/1424-8220/19/9/2033 <br>
