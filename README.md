@@ -35,8 +35,9 @@ You are running the Jupyter server and can use it to open and engage with my rep
 Jupyter Notebook: An Introduction by Mike Driscoll Jan 28, 2019<br>
 https://realpython.com/jupyter-notebook-introduction/ <br>
 Let’s talk about NumPy — for Data Science Beginners by Ehi Aigiomawu Apr 15, 2018 <br>
+https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f
 <<<<<<< HEAD
-https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f<br>
+<br>
 A Quick Introduction to the NumPy Library by Adi Bronshtein Apr 26, 2017<br>
 https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db<br>
 Python Random Number Generator: the Random Module || Python Tutorial || Learn Python Programming<br>
@@ -44,10 +45,7 @@ https://www.youtube.com/watch?v=zWL3z7NMqAs<br>
 Chapter 9.6. random — Generate pseudo-random numbers<br>
 https://docs.python.org/2/library/random.html<br>
 user John1024
-https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
-
-https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f <br>
->>>>>>> 8f6da146a014b22309d3e07ebef77b3fde8d621a
+https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do<br>
 
 Python Basics Tutorial Random Seed Method<br>
 https://www.youtube.com/watch?v=mZiwtDYrpO8<br>
@@ -59,3 +57,6 @@ Understanding random number generators, and their limitations, in Linux <br>
 https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux
 Design and Analysis of a True Random Number Generator Based on GSR Signals for Body Sensor Networks <br>
 https://www.mdpi.com/1424-8220/19/9/2033 <br>
+Python Tutorial: Generate Random Numbers and Data Using the random Module <br>https://www.youtube.com/watch?v=KzqSDvzOFNA <br>
+Randomness for Modeling and Simulation by Jackie Wilson <br>
+https://realpython.com/lessons/randomness-modeling-and-simulation/<br>
