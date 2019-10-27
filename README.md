@@ -60,9 +60,12 @@ Understanding random number generators, and their limitations, in Linux <br>
 https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux
 Design and Analysis of a True Random Number Generator Based on GSR Signals for Body Sensor Networks <br>
 https://www.mdpi.com/1424-8220/19/9/2033 <br>
-Python Tutorial: Generate Random Numbers and Data Using the random Module <br>https://www.youtube.com/watch?v=KzqSDvzOFNA <br>
+Python Tutorial: Generate Random Numbers and Data Using the random Module <br>
+https://www.youtube.com/watch?v=KzqSDvzOFNA <br>
 Randomness for Modeling and Simulation by Jackie Wilson <br>
 https://realpython.com/lessons/randomness-modeling-and-simulation/<br>
 
 How to (efficiently) generate a huge number of pseudorandom bytes using Python
 https://www.stefanocappellini.it/generate-pseudorandom-bytes-with-python/ <br>
+Playing cards<br>
+https://rosettacode.org/wiki/Playing_cards<br>
