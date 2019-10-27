@@ -69,3 +69,5 @@ How to (efficiently) generate a huge number of pseudorandom bytes using Python
 https://www.stefanocappellini.it/generate-pseudorandom-bytes-with-python/ <br>
 Playing cards<br>
 https://rosettacode.org/wiki/Playing_cards<br>
+Probability Distributions in Data Science<br>
+https://towardsdatascience.com/probability-distributions-in-data-science-cce6e64873a7<br>
