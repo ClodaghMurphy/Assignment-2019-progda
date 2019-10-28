@@ -71,3 +71,7 @@ Playing cards<br>
 https://rosettacode.org/wiki/Playing_cards<br>
 Probability Distributions in Data Science<br>
 https://towardsdatascience.com/probability-distributions-in-data-science-cce6e64873a7<br>
+Exponential Distribution / Negative Exponential: Definition, Examples<br>
+https://www.statisticshowto.datasciencecentral.com/exponential-distribution/<br>
+Binomial Distribution: Formula, What it is and How to use it<br>
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/<br>
