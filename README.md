@@ -75,3 +75,5 @@ Exponential Distribution / Negative Exponential: Definition, Examples<br>
 https://www.statisticshowto.datasciencecentral.com/exponential-distribution/<br>
 Binomial Distribution: Formula, What it is and How to use it<br>
 https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/<br>
+Python for Data Analysis Part 22: Probability Distributions<br>
+http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-22.html<br>
