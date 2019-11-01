@@ -77,3 +77,9 @@ Binomial Distribution: Formula, What it is and How to use it<br>
 https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/<br>
 Python for Data Analysis Part 22: Probability Distributions<br>
 http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-22.html<br>
+
+Brian Christian and Tom Griffiths (2016), _Algorithms To Live By_ William Collins Books <br>
+What does the np.random.binomial function return?<br>
+https://discuss.codecademy.com/t/what-does-the-np-random-binomial-function-return/361162<br>
+Normal Approximations<br>
+https://revisionmaths.com/advanced-level-maths-revision/statistics/normal-approximations<br>
