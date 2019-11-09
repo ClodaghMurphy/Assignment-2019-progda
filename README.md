@@ -35,10 +35,6 @@ You are running the Jupyter server and can use it to open and engage with my rep
 
 ## 1. References used in completing the project
 
-
-<<<<<<< HEAD
-
-
 <br>
 A Quick Introduction to the NumPy Library by Adi Bronshtein Apr 26, 2017<br>
 https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db<br>
@@ -57,8 +53,17 @@ https://www.mdpi.com/1424-8220/19/9/2033 <br>
 Exponential Distribution / Negative Exponential: Definition, Examples<br>
 https://www.statisticshowto.datasciencecentral.com/exponential-distribution/<br>
 
+Generating Random Numbers With NumPy<br>
+https://chrisalbon.com/python/basics/generating_random_numbers_with_numpy/<br>
+
+Histograms by Andrew F. Siegel, in Practical Business Statistics (Seventh Edition), 2016
+https://www.sciencedirect.com/topics/mathematics/histograms<br>
+
 How to (efficiently) generate a huge number of pseudorandom bytes using Python
 https://www.stefanocappellini.it/generate-pseudorandom-bytes-with-python/ <br>
+
+How to use numpy random normal in Python<br>
+https://www.sharpsightlabs.com/blog/numpy-random-normal/<br>
 
 Jupyter Notebook: An Introduction by Mike Driscoll Jan 28, 2019<br>
 https://realpython.com/jupyter-notebook-introduction/ <br>
