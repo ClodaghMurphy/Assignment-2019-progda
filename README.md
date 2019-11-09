@@ -10,7 +10,6 @@ This assignment investigates the numpy.random package in Python.
 1. Explain the use and purpose of at least five “Distributions” functions.
 1. Explain the use of seeds in generating pseudorandom numbers.
 
-## 1. BLANK FOR COMPLETION LATER
 
 ## 1. Instructions for downloading this repository
 Log on to GitHub and search for user ClodaghMurphy, the repository is entitled Assignment-2019-progda.<br>
@@ -27,10 +26,7 @@ Jupyter will initialise in the background and your default browser will pop up i
 The terminal will simultaneously display instructions on how to stop the connection to that webserver in addition to URL details that <br>contain a unique token.<br>
 http://localhost:8888/?token=XXXXXYYYYY123456789<br>
 Chrome and firefox are the optimal web browsers to use and you may need to copy the url into one of these instead of using the default<br> pop-up.<br>
-You are running the Jupyter server and can use it to open and engage with my repository contents.<br>
-
-
-## 1. Conclusions and Summary
+You are now running the Jupyter server and can use it to open and engage with my repository contents.<br>
 
 
 ## 1. References used in completing the project
@@ -46,6 +42,9 @@ Brian Christian and Tom Griffiths (2016), _Algorithms To Live By_ William Collin
 
 Chapter 9.6. random — Generate pseudo-random numbers<br>
 https://docs.python.org/2/library/random.html<br>
+
+Continuous Probability Distributions for Machine Learning<br>
+https://machinelearningmastery.com/continuous-probability-distributions-for-machine-learning/<br>
 
 Design and Analysis of a True Random Number Generator Based on GSR Signals for Body Sensor Networks <br>
 https://www.mdpi.com/1424-8220/19/9/2033 <br>
@@ -101,6 +100,9 @@ https://realpython.com/lessons/randomness-modeling-and-simulation/<br>
 Random sampling (numpy.random)¶<br>
 https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html<br>
 
+The Exponential Distribution<br>
+http://reliawiki.org/index.php/The_Exponential_Distribution<br>
+
 Understanding random number generators, and their limitations, in Linux <br>
 https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux
 
@@ -110,6 +112,8 @@ https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do<br>
 What does the np.random.binomial function return?<br>
 https://discuss.codecademy.com/t/what-does-the-np-random-binomial-function-return/361162<br>
 
+What Is a Uniform Distribution?<br>
+https://www.thoughtco.com/uniform-distribution-3126573<br>
 
 
 
