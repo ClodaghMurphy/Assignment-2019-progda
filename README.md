@@ -31,7 +31,6 @@ You are now running the Jupyter server and can use it to open and engage with my
 
 ## 1. References used in completing the project
 
-<br>
 A Quick Introduction to the NumPy Library by Adi Bronshtein Apr 26, 2017<br>
 https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db<br>
 
